@@ -1,9 +1,7 @@
-LEVEL1: The infine desert of Mars
-X
-* /path
+name The infine desert of Mars
 map
 *******************
-*         X       *
+*         P       *
 *                 *
 *     @@@@@     #@#**
 *     @   @       @ *
